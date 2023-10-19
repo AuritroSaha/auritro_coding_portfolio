@@ -1,0 +1,5 @@
+print(14)
+print(16)
+print(-1)
+print(-1)
+print(-1)
